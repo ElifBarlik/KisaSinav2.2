@@ -1,0 +1,8 @@
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\bin\Debug\ortalamakaydirmalikumeleme.exe.config
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\bin\Debug\ortalamakaydirmalikumeleme.exe
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\bin\Debug\ortalamakaydirmalikumeleme.pdb
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\obj\Debug\ortalamakaydirmalikumeleme.csproj.AssemblyReference.cache
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\obj\Debug\ortalamakaydirmalikumeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\obj\Debug\ortalamakaydirmalikumeleme.csproj.CoreCompileInputs.cache
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\obj\Debug\ortalamakaydirmalikumeleme.exe
+C:\Users\elifb\OneDrive\Belgeler\C#\ortalamakaydirmalikumeleme\ortalamakaydirmalikumeleme\obj\Debug\ortalamakaydirmalikumeleme.pdb
